@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Amajuoyichidera
 - 👀 I’m interested in Web development and Mobile development
-- 🌱 I’m currently learning React Native
-- 💞️ I’m looking to collaborate on frontend developmeet
+- 🌱 I’m always learning and updating my stacks
+- 💞️ I’m looking to collaborate on web / mobile development 
 - 📫 How to reach me ... 08129405826 (whatsapp)
 
 <!---
